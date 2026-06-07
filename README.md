@@ -46,20 +46,23 @@ The project uses the Sample Superstore CSV dataset, imported into SQLite as an `
 
 ---
 
-## 📈 Key Visuals
+## 📈 Key Visualizations
 
 ### Top 10 Product Categories by Revenue
 images/top_products.png
+Phones and Chairs dominate revenue performance, accounting for the highest sales among categories.
 
 ### Monthly Sales Trend
 images/sales_trend.png
+Monthly sales trend shows variation across time indicating possible seasonality
 
 ### Sales by Region
 images/region_sales.png
+The West region is the strongest geographic market
 
 ### Top 10 Customers by Sales
 images/top_customers.png
-
+A small group of customers contribute a large amount of the revenue
 ---
 
 ## 🔍 Key Insights
@@ -98,6 +101,15 @@ This project shows how SQL-based analysis can support:
 
 ---
 
+## 💻 SQL Techniques Used
+- Aggregation (SUM)
+- Grouping (GROUP BY)
+- Sorting (ORDER BY)
+- Ranking (LIMIT)
+- Date transformation
+
+  ---
+  
 ## 📁 Project Files
 - `sql/queries.sql`
 - `images/Top_Products.PNG`
