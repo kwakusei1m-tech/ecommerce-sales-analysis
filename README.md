@@ -100,10 +100,10 @@ This project shows how SQL-based analysis can support:
 
 ## 📁 Project Files
 - `sql/queries.sql`
-- `images/top_products.png`
-- `images/sales_trend.png`
-- `images/region_sales.png`
-- `images/top_customers.png`
+- `images/Top_Products.PNG`
+- `images/Sales_Trend.PNG`
+- `images/Region_Sales.PNG`
+- `images/Top_Customers.PNG`
 
 ---
 
