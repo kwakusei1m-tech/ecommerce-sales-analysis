@@ -50,19 +50,25 @@ The project uses the Sample Superstore CSV dataset, imported into SQLite as an `
 
 ### Top 10 Product Categories by Revenue
 ![Top Products](images/top_products.png)
-Phones and Chairs dominate revenue performance, accounting for the highest sales among categories.
+
+Phones and Chairs are the leading revenue-generating categories, indicating strong demand in technology and furniture products. The top categories contribute a significant share of total revenue, highlighting opportunities for targeted inventory and marketing strategies.
 
 ### Monthly Sales Trend
 ![Monthly Sales](images/sales_trend.png)
-Monthly sales trend shows variation across time indicating possible seasonality
+
+Sales performance fluctuates across months, showing clear peaks and dips over time. This variation suggests the presence of seasonal patterns or uneven purchasing behaviour, which can inform better forecasting and sales planning.
 
 ### Sales by Region
 ![Region Sales](images/region_sales.png)
-The West region is the strongest geographic market
+
+The West region generates the highest revenue, followed by the East, while the South performs the lowest. This indicates stronger market presence and demand in the West, suggesting opportunities for expansion in underperforming regions.
 
 ### Top 10 Customers by Sales
 ![Top Customers](images/top_customers.png)
-A small group of customers contribute a large amount of the revenue
+
+A small group of customers contributes a large portion of total revenue, indicating customer value concentration. This highlights the importance of customer retention strategies and potential benefits of targeting high-value clients.
+
+**Key takeaway:** Revenue is concentrated in a few categories, making them critical for business performance.
 
 ---
 
@@ -76,7 +82,7 @@ A small group of customers contribute a large amount of the revenue
 ---
 
 ## 💼 Business Implications
-This project shows how SQL-based analysis can support:
+-This project shows how SQL-based analysis can support:
 - product prioritisation
 - regional strategy
 - customer retention focus
