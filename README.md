@@ -63,6 +63,7 @@ The West region is the strongest geographic market
 ### Top 10 Customers by Sales
 ![Top Customers](images/top_customers.png)
 A small group of customers contribute a large amount of the revenue
+
 ---
 
 ## 🔍 Key Insights
